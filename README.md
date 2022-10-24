@@ -1,4 +1,4 @@
-# Projeto AparecidaNutricao, criado com o curso da Alura.
+# Projeto Aparecida Nutrição, criado com o curso da Alura.
 
 Tratando conceitos como:
 *Manipulação de DOM
